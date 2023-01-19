@@ -8,3 +8,6 @@ Based on @fastred https://github.com/fastred/HamburgerButton, There is a problem
 Code with pure SwiftUI, and it also has a problem, I didn't find a way to use 2 sets timingCurve of animations in rotation() and offset modifier(), but I had modify the UIBezierPath to reduce animation artifacts
 
 If you can solve the above problems, welcome to let me know
+
+# Author
+* Gmail: lobo.zhao@gmail.com
